@@ -1,3 +1,4 @@
-# Hello Android (Empty Activity)
+# Empty Activity
 
-![initial-screenshot](ss1.png)
+![screenshot of empty activity](ss1.png)
+
